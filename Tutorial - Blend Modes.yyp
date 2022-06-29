@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":2,},
+    {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":9,},
     {"id":{"name":"spr_checkerboard","path":"sprites/spr_checkerboard/spr_checkerboard.yy",},"order":4,},
     {"id":{"name":"spr_ff0000","path":"sprites/spr_ff0000/spr_ff0000.yy",},"order":1,},
     {"id":{"name":"spr_0000ff","path":"sprites/spr_0000ff/spr_0000ff.yy",},"order":2,},
